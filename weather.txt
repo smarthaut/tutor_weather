@@ -1,0 +1,210 @@
+city:北京		url:http://weather.sina.com.cn/beijing
+
+city:上海		url:http://weather.sina.com.cn/shanghai
+
+city:广州		url:http://weather.sina.com.cn/guangzhou
+
+city:深圳		url:http://weather.sina.com.cn/shenzhen
+
+city:天津		url:http://weather.sina.com.cn/tianjin
+
+city:重庆		url:http://weather.sina.com.cn/chongqing
+
+city:成都		url:http://weather.sina.com.cn/chengdu
+
+city:郑州		url:http://weather.sina.com.cn/zhengzhou
+
+city:香港		url:http://weather.sina.com.cn/xianggang
+
+city:南京		url:http://weather.sina.com.cn/nanjing
+
+city:杭州		url:http://weather.sina.com.cn/hangzhou
+
+city:沈阳		url:http://weather.sina.com.cn/shenyang
+
+city:石家庄		url:http://weather.sina.com.cn/shijiazhuang
+
+city:台北		url:http://weather.sina.com.cn/taibei
+
+city:长沙		url:http://weather.sina.com.cn/changsha
+
+city:昆明		url:http://weather.sina.com.cn/kunming
+
+city:长春		url:http://weather.sina.com.cn/changchun
+
+city:武汉		url:http://weather.sina.com.cn/wuhan
+
+city:西安		url:http://weather.sina.com.cn/xian
+
+city:海口		url:http://weather.sina.com.cn/haikou
+
+city:济南		url:http://weather.sina.com.cn/jinan
+
+city:澳门		url:http://weather.sina.com.cn/aomen
+
+city:鞍山		url:http://weather.sina.com.cn/anshan
+
+city:安庆		url:http://weather.sina.com.cn/anqing
+
+city:包头		url:http://weather.sina.com.cn/baotou
+
+city:保定		url:http://weather.sina.com.cn/baoding
+
+city:常州		url:http://weather.sina.com.cn/changzhou
+
+city:沧州		url:http://weather.sina.com.cn/cangzhou
+
+city:大连		url:http://weather.sina.com.cn/dalian
+
+city:东莞		url:http://weather.sina.com.cn/dongguan
+
+city:大庆		url:http://weather.sina.com.cn/daqing
+
+city:东营		url:http://weather.sina.com.cn/dongying
+
+city:丹东		url:http://weather.sina.com.cn/dandong
+
+city:鄂尔多斯		url:http://weather.sina.com.cn/eerduosi
+
+city:福州		url:http://weather.sina.com.cn/fuzhou
+
+city:抚顺		url:http://weather.sina.com.cn/fushun
+
+city:佛山		url:http://weather.sina.com.cn/foshan
+
+city:贵阳		url:http://weather.sina.com.cn/guiyang
+
+city:呼和浩特		url:http://weather.sina.com.cn/huhehaote
+
+city:哈尔滨		url:http://weather.sina.com.cn/haerbin
+
+city:合肥		url:http://weather.sina.com.cn/hefei
+
+city:邯郸		url:http://weather.sina.com.cn/handan
+
+city:济宁		url:http://weather.sina.com.cn/shandong_jining
+
+city:景德镇		url:http://weather.sina.com.cn/jingdezhen
+
+city:吉林		url:http://weather.sina.com.cn/jilin
+
+city:嘉兴		url:http://weather.sina.com.cn/jiaxing
+
+city:金华		url:http://weather.sina.com.cn/jinhua
+
+city:开封		url:http://weather.sina.com.cn/kaifeng
+
+city:克拉玛依		url:http://weather.sina.com.cn/kelamayi
+
+city:拉萨		url:http://weather.sina.com.cn/lasa
+
+city:兰州		url:http://weather.sina.com.cn/lanzhou
+
+city:临沂		url:http://weather.sina.com.cn/shandong_linyi
+
+city:连云港		url:http://weather.sina.com.cn/lianyungang
+
+city:洛阳		url:http://weather.sina.com.cn/luoyang
+
+city:茂名		url:http://weather.sina.com.cn/maoming
+
+city:牡丹江		url:http://weather.sina.com.cn/mudanjiang
+
+city:南宁		url:http://weather.sina.com.cn/nanning
+
+city:南昌		url:http://weather.sina.com.cn/nanchang
+
+city:宁波		url:http://weather.sina.com.cn/ningbo
+
+city:南通		url:http://weather.sina.com.cn/nantong
+
+city:青岛		url:http://weather.sina.com.cn/qingdao
+
+city:泉州		url:http://weather.sina.com.cn/quanzhou
+
+city:秦皇岛		url:http://weather.sina.com.cn/qinhuangdao
+
+city:三亚		url:http://weather.sina.com.cn/sanya
+
+city:绍兴		url:http://weather.sina.com.cn/shaoxing
+
+city:苏州		url:http://weather.sina.com.cn/suzhou
+
+city:汕头		url:http://weather.sina.com.cn/shantou
+
+city:太原		url:http://weather.sina.com.cn/taiyuan
+
+city:唐山		url:http://weather.sina.com.cn/tangshan
+
+city:台州		url:http://weather.sina.com.cn/zhejiang_taizhou
+
+city:乌鲁木齐		url:http://weather.sina.com.cn/wulumuqi
+
+city:温州		url:http://weather.sina.com.cn/wenzhou
+
+city:无锡		url:http://weather.sina.com.cn/jiangsu_wuxi
+
+city:潍坊		url:http://weather.sina.com.cn/weifang
+
+city:威海		url:http://weather.sina.com.cn/weihai
+
+city:厦门		url:http://weather.sina.com.cn/xiamen
+
+city:西宁		url:http://weather.sina.com.cn/xining
+
+city:银川		url:http://weather.sina.com.cn/yinchuan
+
+city:烟台		url:http://weather.sina.com.cn/yantai
+
+city:扬州		url:http://weather.sina.com.cn/yangzhou
+
+city:盐城		url:http://weather.sina.com.cn/yancheng
+
+city:淄博		url:http://weather.sina.com.cn/zibo
+
+city:中山		url:http://weather.sina.com.cn/zhongshan
+
+city:珠海		url:http://weather.sina.com.cn/zhuhai
+
+city:东京		url:http://weather.sina.com.cn/tokyo
+
+city:首尔		url:http://weather.sina.com.cn/seoul
+
+city:新加坡		url:http://weather.sina.com.cn/singapore
+
+city:曼谷		url:http://weather.sina.com.cn/bangkok
+
+city:新德里		url:http://weather.sina.com.cn/newdelhi
+
+city:纽约		url:http://weather.sina.com.cn/newyork
+
+city:华盛顿		url:http://weather.sina.com.cn/usa_washington
+
+city:洛杉矶		url:http://weather.sina.com.cn/losangeles
+
+city:西雅图		url:http://weather.sina.com.cn/seattle
+
+city:温哥华		url:http://weather.sina.com.cn/vancouver
+
+city:伦敦		url:http://weather.sina.com.cn/london
+
+city:巴黎		url:http://weather.sina.com.cn/paris
+
+city:柏林		url:http://weather.sina.com.cn/berlin
+
+city:罗马		url:http://weather.sina.com.cn/rome
+
+city:雅典		url:http://weather.sina.com.cn/athens
+
+city:马德里		url:http://weather.sina.com.cn/madrid
+
+city:莫斯科		url:http://weather.sina.com.cn/moscow
+
+city:悉尼		url:http://weather.sina.com.cn/sydney
+
+city:墨尔本		url:http://weather.sina.com.cn/melbourne
+
+city:开罗		url:http://weather.sina.com.cn/cairo
+
+city:开普敦		url:http://weather.sina.com.cn/capetown
+

@@ -7,6 +7,7 @@
 # @Software: PyCharm
 
 from scrapy.spider import Spider
+from scrapy.http import Request
 from tutor_weather.items import Weather
 
 class WeatherSpider(Spider):
@@ -16,6 +17,13 @@ class WeatherSpider(Spider):
 
     def parse(self, response):
         item = Weather()
-        item['city'] = response.xpath('//li/a[contains(@href,"weather")]/text()').extract()
-        item['url'] = response.xpath('//li/a[contains(@href,"weather")]/@href').extract()
-        return item
+        tenDay = response.xpath('//*[@id="blk_fc_c0_scroll"]');
+        item['city'] = response.xpath('//h4[contains(@id,"slider_ct_name")]/text()').extract()
+        urls = response.xpath('//li/a[contains(@href,"weather")]/@href').extract()
+        item['date'] = response.xpath('//p[contains(@class,"wt_fc_c0_i_date")]/text()').extract()
+        item['dayDesc'] = tenDay.css('img.icons0_wt::attr(title)').extract()
+        item['dayTemp'] = tenDay.css('p.wt_fc_c0_i_temp::text').extract()
+        yield item
+        for url in urls:
+            yield Request(url,callback=self.parse)
+

@@ -1,210 +1,618 @@
-city:北京		url:http://weather.sina.com.cn/beijing
+city:上海
 
-city:上海		url:http://weather.sina.com.cn/shanghai
+date:08-17
 
-city:广州		url:http://weather.sina.com.cn/guangzhou
+day:阴(33°C )		night:小雨( 27°C)
 
-city:深圳		url:http://weather.sina.com.cn/shenzhen
+city:武汉
 
-city:天津		url:http://weather.sina.com.cn/tianjin
+date:08-17
 
-city:重庆		url:http://weather.sina.com.cn/chongqing
+day:小雨(32°C )		night:小雨( 25°C)
 
-city:成都		url:http://weather.sina.com.cn/chengdu
+city:长春
 
-city:郑州		url:http://weather.sina.com.cn/zhengzhou
+date:08-17
 
-city:香港		url:http://weather.sina.com.cn/xianggang
+day:多云(27°C )		night:多云( 19°C)
 
-city:南京		url:http://weather.sina.com.cn/nanjing
+city:济南
 
-city:杭州		url:http://weather.sina.com.cn/hangzhou
+date:08-17
 
-city:沈阳		url:http://weather.sina.com.cn/shenyang
+day:雷阵雨(30°C )		night:雷阵雨( 22°C)
 
-city:石家庄		url:http://weather.sina.com.cn/shijiazhuang
+city:澳门
 
-city:台北		url:http://weather.sina.com.cn/taibei
+date:08-17
 
-city:长沙		url:http://weather.sina.com.cn/changsha
+day:多云(33°C )		night:多云( 28°C)
 
-city:昆明		url:http://weather.sina.com.cn/kunming
+city:海口
 
-city:长春		url:http://weather.sina.com.cn/changchun
+date:08-17
 
-city:武汉		url:http://weather.sina.com.cn/wuhan
+day:多云(33°C )		night:多云( 26°C)
 
-city:西安		url:http://weather.sina.com.cn/xian
+city:西安
 
-city:海口		url:http://weather.sina.com.cn/haikou
+date:08-17
 
-city:济南		url:http://weather.sina.com.cn/jinan
+day:局部多云(37°C )		night:局部多云( 26°C)
 
-city:澳门		url:http://weather.sina.com.cn/aomen
+city:长沙
 
-city:鞍山		url:http://weather.sina.com.cn/anshan
+date:08-17
 
-city:安庆		url:http://weather.sina.com.cn/anqing
+day:多云(34°C )		night:多云( 26°C)
 
-city:包头		url:http://weather.sina.com.cn/baotou
+city:昆明
 
-city:保定		url:http://weather.sina.com.cn/baoding
+date:08-17
 
-city:常州		url:http://weather.sina.com.cn/changzhou
+day:阵雨(25°C )		night:阵雨( 18°C)
 
-city:沧州		url:http://weather.sina.com.cn/cangzhou
+city:南京
 
-city:大连		url:http://weather.sina.com.cn/dalian
+date:08-17
 
-city:东莞		url:http://weather.sina.com.cn/dongguan
+day:多云(32°C )		night:雷阵雨( 24°C)
 
-city:大庆		url:http://weather.sina.com.cn/daqing
+city:台北
 
-city:东营		url:http://weather.sina.com.cn/dongying
+date:08-17
 
-city:丹东		url:http://weather.sina.com.cn/dandong
+day:多云(35°C )		night:多云( 27°C)
 
-city:鄂尔多斯		url:http://weather.sina.com.cn/eerduosi
+city:香港
 
-city:福州		url:http://weather.sina.com.cn/fuzhou
+date:08-17
 
-city:抚顺		url:http://weather.sina.com.cn/fushun
+day:多云(32°C )		night:多云( 28°C)
 
-city:佛山		url:http://weather.sina.com.cn/foshan
+city:成都
 
-city:贵阳		url:http://weather.sina.com.cn/guiyang
+date:08-17
 
-city:呼和浩特		url:http://weather.sina.com.cn/huhehaote
+day:中雨(28°C )		night:小雨( 24°C)
 
-city:哈尔滨		url:http://weather.sina.com.cn/haerbin
+city:沈阳
 
-city:合肥		url:http://weather.sina.com.cn/hefei
+date:08-17
 
-city:邯郸		url:http://weather.sina.com.cn/handan
+day:雷阵雨(26°C )		night:小雨-中雨( 19°C)
 
-city:济宁		url:http://weather.sina.com.cn/shandong_jining
+city:杭州
 
-city:景德镇		url:http://weather.sina.com.cn/jingdezhen
+date:08-17
 
-city:吉林		url:http://weather.sina.com.cn/jilin
+day:多云(36°C )		night:多云( 26°C)
 
-city:嘉兴		url:http://weather.sina.com.cn/jiaxing
+city:石家庄
 
-city:金华		url:http://weather.sina.com.cn/jinhua
+date:08-17
 
-city:开封		url:http://weather.sina.com.cn/kaifeng
+day:阵雨(28°C )		night:阴( 22°C)
 
-city:克拉玛依		url:http://weather.sina.com.cn/kelamayi
+city:郑州
 
-city:拉萨		url:http://weather.sina.com.cn/lasa
+date:08-17
 
-city:兰州		url:http://weather.sina.com.cn/lanzhou
+day:阴(34°C )		night:多云( 24°C)
 
-city:临沂		url:http://weather.sina.com.cn/shandong_linyi
+city:雅典
 
-city:连云港		url:http://weather.sina.com.cn/lianyungang
+date:08-17
 
-city:洛阳		url:http://weather.sina.com.cn/luoyang
+day:晴(33°C )		night:刮风( 25°C)
 
-city:茂名		url:http://weather.sina.com.cn/maoming
+city:马德里
 
-city:牡丹江		url:http://weather.sina.com.cn/mudanjiang
+date:08-17
 
-city:南宁		url:http://weather.sina.com.cn/nanning
+day:晴(37°C )		night:晴( 21°C)
 
-city:南昌		url:http://weather.sina.com.cn/nanchang
+city:开罗
 
-city:宁波		url:http://weather.sina.com.cn/ningbo
+date:08-17
 
-city:南通		url:http://weather.sina.com.cn/nantong
+day:晴(34°C )		night:局部多云( 26°C)
 
-city:青岛		url:http://weather.sina.com.cn/qingdao
+city:墨尔本
 
-city:泉州		url:http://weather.sina.com.cn/quanzhou
+date:08-17
 
-city:秦皇岛		url:http://weather.sina.com.cn/qinhuangdao
+day:局部多云(16°C )		night:阵雨( 7°C)
 
-city:三亚		url:http://weather.sina.com.cn/sanya
+city:罗马
 
-city:绍兴		url:http://weather.sina.com.cn/shaoxing
+date:08-17
 
-city:苏州		url:http://weather.sina.com.cn/suzhou
+day:晴(35°C )		night:晴( 22°C)
 
-city:汕头		url:http://weather.sina.com.cn/shantou
+city:莫斯科
 
-city:太原		url:http://weather.sina.com.cn/taiyuan
+date:08-17
 
-city:唐山		url:http://weather.sina.com.cn/tangshan
+day:局部多云(24°C )		night:局部多云( 14°C)
 
-city:台州		url:http://weather.sina.com.cn/zhejiang_taizhou
+city:开普敦
 
-city:乌鲁木齐		url:http://weather.sina.com.cn/wulumuqi
+date:08-17
 
-city:温州		url:http://weather.sina.com.cn/wenzhou
+day:晴(17°C )		night:少云( 6°C)
 
-city:无锡		url:http://weather.sina.com.cn/jiangsu_wuxi
+city:巴黎
 
-city:潍坊		url:http://weather.sina.com.cn/weifang
+date:08-17
 
-city:威海		url:http://weather.sina.com.cn/weihai
+day:雨(26°C )		night:阵雨( 18°C)
 
-city:厦门		url:http://weather.sina.com.cn/xiamen
+city:伦敦
 
-city:西宁		url:http://weather.sina.com.cn/xining
+date:08-17
 
-city:银川		url:http://weather.sina.com.cn/yinchuan
+day:阴天(24°C )		night:雨( 15°C)
 
-city:烟台		url:http://weather.sina.com.cn/yantai
+city:悉尼
 
-city:扬州		url:http://weather.sina.com.cn/yangzhou
+date:08-17
 
-city:盐城		url:http://weather.sina.com.cn/yancheng
+day:晴(23°C )		night:晴( 12°C)
 
-city:淄博		url:http://weather.sina.com.cn/zibo
+city:东京
 
-city:中山		url:http://weather.sina.com.cn/zhongshan
+date:08-17
 
-city:珠海		url:http://weather.sina.com.cn/zhuhai
+day:阴天(28°C )		night:阵雨( 23°C)
 
-city:东京		url:http://weather.sina.com.cn/tokyo
+city:柏林
 
-city:首尔		url:http://weather.sina.com.cn/seoul
+date:08-17
 
-city:新加坡		url:http://weather.sina.com.cn/singapore
+day:零散雷雨(27°C )		night:局部多云( 17°C)
 
-city:曼谷		url:http://weather.sina.com.cn/bangkok
+city:中山
 
-city:新德里		url:http://weather.sina.com.cn/newdelhi
+date:08-17
 
-city:纽约		url:http://weather.sina.com.cn/newyork
+day:多云(33°C )		night:多云( 26°C)
 
-city:华盛顿		url:http://weather.sina.com.cn/usa_washington
+city:珠海
 
-city:洛杉矶		url:http://weather.sina.com.cn/losangeles
+date:08-17
 
-city:西雅图		url:http://weather.sina.com.cn/seattle
+day:多云(33°C )		night:多云( 28°C)
 
-city:温哥华		url:http://weather.sina.com.cn/vancouver
+city:华盛顿
 
-city:伦敦		url:http://weather.sina.com.cn/london
+date:08-17
 
-city:巴黎		url:http://weather.sina.com.cn/paris
+day:零散雷雨(31°C )		night:零散雷雨( 25°C)
 
-city:柏林		url:http://weather.sina.com.cn/berlin
+city:新德里
 
-city:罗马		url:http://weather.sina.com.cn/rome
+date:08-17
 
-city:雅典		url:http://weather.sina.com.cn/athens
+day:少云(38°C )		night:局部多云( 28°C)
 
-city:马德里		url:http://weather.sina.com.cn/madrid
+city:淄博
 
-city:莫斯科		url:http://weather.sina.com.cn/moscow
+date:08-17
 
-city:悉尼		url:http://weather.sina.com.cn/sydney
+day:雷阵雨(29°C )		night:雷阵雨( 22°C)
 
-city:墨尔本		url:http://weather.sina.com.cn/melbourne
+city:盐城
 
-city:开罗		url:http://weather.sina.com.cn/cairo
+date:08-17
 
-city:开普敦		url:http://weather.sina.com.cn/capetown
+day:雷雨(32°C )		night:零散雷雨( 24°C)
+
+city:扬州
+
+date:08-17
+
+day:多云(33°C )		night:多云( 25°C)
+
+city:烟台
+
+date:08-17
+
+day:雷阵雨(27°C )		night:雷阵雨( 22°C)
+
+city:银川
+
+date:08-17
+
+day:多云(32°C )		night:多云( 20°C)
+
+city:西宁
+
+date:08-17
+
+day:阴(24°C )		night:阴( 15°C)
+
+city:威海
+
+date:08-17
+
+day:雷阵雨(27°C )		night:雷阵雨( 22°C)
+
+city:厦门
+
+date:08-17
+
+day:多云(34°C )		night:多云( 26°C)
+
+city:首尔
+
+date:08-17
+
+day:零散雷雨(28°C )		night:雷雨( 23°C)
+
+city:潍坊
+
+date:08-17
+
+day:阵雨(29°C )		night:阵雨( 22°C)
+
+city:温州
+
+date:08-17
+
+day:多云(35°C )		night:多云( 27°C)
+
+city:乌鲁木齐
+
+date:08-17
+
+day:小雨(26°C )		night:多云( 14°C)
+
+city:无锡
+
+date:08-17
+
+day:多云(33°C )		night:多云( 26°C)
+
+city:台州
+
+date:08-17
+
+day:多云(36°C )		night:雷阵雨( 25°C)
+
+city:新加坡
+
+date:08-17
+
+day:局部多云(31°C )		night:零散雷雨( 26°C)
+
+city:唐山
+
+date:08-17
+
+day:多云(29°C )		night:晴( 21°C)
+
+city:太原
+
+date:08-17
+
+day:小雨(31°C )		night:阵雨( 20°C)
+
+city:汕头
+
+date:08-17
+
+day:晴(35°C )		night:多云( 28°C)
+
+city:苏州
+
+date:08-17
+
+day:局部多云(31°C )		night:雷雨( 27°C)
+
+city:绍兴
+
+date:08-17
+
+day:多云(35°C )		night:雷阵雨( 27°C)
+
+city:曼谷
+
+date:08-17
+
+day:零散阵雨(31°C )		night:雷雨( 26°C)
+
+city:青岛
+
+date:08-17
+
+day:雷阵雨(29°C )		night:雷阵雨( 24°C)
+
+city:秦皇岛
+
+date:08-17
+
+day:多云(27°C )		night:雷阵雨( 20°C)
+
+city:三亚
+
+date:08-17
+
+day:阵雨(32°C )		night:阵雨( 26°C)
+
+city:南通
+
+date:08-17
+
+day:多云(32°C )		night:多云( 25°C)
+
+city:泉州
+
+date:08-17
+
+day:多云(34°C )		night:多云( 26°C)
+
+city:宁波
+
+date:08-17
+
+day:多云(35°C )		night:雷阵雨( 27°C)
+
+city:南昌
+
+date:08-17
+
+day:多云(34°C )		night:雷阵雨( 26°C)
+
+city:纽约
+
+date:08-17
+
+day:雨(28°C )		night:少云( 23°C)
+
+city:南宁
+
+date:08-17
+
+day:多云(32°C )		night:阵雨( 24°C)
+
+city:牡丹江
+
+date:08-17
+
+day:多云(27°C )		night:多云( 16°C)
+
+city:茂名
+
+date:08-17
+
+day:阵雨(33°C )		night:阵雨( 27°C)
+
+city:洛阳
+
+date:08-17
+
+day:阴(34°C )		night:多云( 25°C)
+
+city:临沂
+
+date:08-17
+
+day:阴(31°C )		night:雷阵雨( 24°C)
+
+city:兰州
+
+date:08-17
+
+day:阵雨(29°C )		night:多云( 19°C)
+
+city:拉萨
+
+date:08-17
+
+day:小雨(26°C )		night:多云( 12°C)
+
+city:金华
+
+date:08-17
+
+day:多云(36°C )		night:雷阵雨( 26°C)
+
+city:开封
+
+date:08-17
+
+day:多云(33°C )		night:多云( 24°C)
+
+city:克拉玛依
+
+date:08-17
+
+day:多云(28°C )		night:阴( 21°C)
+
+city:嘉兴
+
+date:08-17
+
+day:多云(33°C )		night:雷阵雨( 26°C)
+
+city:景德镇
+
+date:08-17
+
+day:多云(32°C )		night:雷阵雨( 25°C)
+
+city:济宁
+
+date:08-17
+
+day:雷阵雨(32°C )		night:多云( 25°C)
+
+city:哈尔滨
+
+date:08-17
+
+day:晴(28°C )		night:多云( 18°C)
+
+city:邯郸
+
+date:08-17
+
+day:阵雨(29°C )		night:阴( 23°C)
+
+city:合肥
+
+date:08-17
+
+day:阴(32°C )		night:多云( 25°C)
+
+city:呼和浩特
+
+date:08-17
+
+day:晴(31°C )		night:多云( 19°C)
+
+city:贵阳
+
+date:08-17
+
+day:多云(28°C )		night:阵雨( 20°C)
+
+city:佛山
+
+date:08-17
+
+day:多云(35°C )		night:多云( 28°C)
+
+city:抚顺
+
+date:08-17
+
+day:雷阵雨(27°C )		night:雷阵雨( 20°C)
+
+city:福州
+
+date:08-17
+
+day:多云(36°C )		night:雷阵雨( 25°C)
+
+city:鄂尔多斯
+
+date:08-17
+
+day:多云(28°C )		night:多云( 19°C)
+
+city:东营
+
+date:08-17
+
+day:阵雨(28°C )		night:阵雨( 23°C)
+
+city:大连
+
+date:08-17
+
+day:多云(27°C )		night:雷阵雨( 22°C)
+
+city:沧州
+
+date:08-17
+
+day:多云(30°C )		night:多云( 22°C)
+
+city:东莞
+
+date:08-17
+
+day:多云(34°C )		night:多云( 27°C)
+
+city:吉林
+
+date:08-17
+
+day:多云(27°C )		night:多云( 17°C)
+
+city:大庆
+
+date:08-17
+
+day:晴(28°C )		night:多云( 18°C)
+
+city:保定
+
+date:08-17
+
+day:多云(30°C )		night:多云( 22°C)
+
+city:常州
+
+date:08-17
+
+day:多云(33°C )		night:多云( 25°C)
+
+city:鞍山
+
+date:08-17
+
+day:阵雨(27°C )		night:中雨( 21°C)
+
+city:重庆
+
+date:08-17
+
+day:多云(38°C )		night:多云( 28°C)
+
+city:连云港
+
+date:08-17
+
+day:雷阵雨(32°C )		night:多云( 23°C)
+
+city:天津
+
+date:08-17
+
+day:多云(29°C )		night:多云( 23°C)
+
+city:深圳
+
+date:08-17
+
+day:多云(33°C )		night:多云( 28°C)
+
+city:广州
+
+date:08-17
+
+day:晴(35°C )		night:晴( 28°C)
+
+city:丹东
+
+date:08-17
+
+day:阵雨(26°C )		night:阵雨( 21°C)
+
+city:上海
+
+date:08-17
+
+day:阴(33°C )		night:小雨( 27°C)
+
+city:北京
+
+date:08-17
+
+day:多云(31°C )		night:多云( 22°C)
+
+city:安庆
+
+date:08-17
+
+day:阴(30°C )		night:雷阵雨( 24°C)
+
+city:包头
+
+date:08-17
+
+day:多云(31°C )		night:多云( 19°C)
 

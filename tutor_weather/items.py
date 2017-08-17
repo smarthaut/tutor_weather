@@ -16,5 +16,7 @@ class TutorWeatherItem(scrapy.Item):
 
 class Weather(Item):
     city = Field()
-    url = Field()
+    date = Field()
+    dayDesc = Field()
+    dayTemp =Field()
     pass

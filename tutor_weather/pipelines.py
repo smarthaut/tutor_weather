@@ -16,15 +16,27 @@ class TutorWeatherPipeline(object):
     def process_item(self, item, spider):
         with open('weather.txt','a')as file:
             city = item['city']
+            file.write(city[0])
             date = item['date']
             desc = item['dayDesc']
             dayDesc = desc[1::2]
             nightDesc = desc[0::2]
-            dayTemp = item['dayTemp'][0]
-            dayTemp = dayTemp.split('/')
-            dt = dayTemp[0]
-            nt = dayTemp[1]
-            txt = 'city:{0}\n\ndate:{1}\n\nday:{2}({3})\t\tnight:{4}({5})\n\n'.format(city[0],date[0],dayDesc[0],
-                dt,nightDesc[0],nt)
-            file.write(txt)
+            dayTemp = item['dayTemp']
+            weaitem = list(zip(date,dayDesc,nightDesc,dayTemp))
+            for i in range(len(weaitem)):
+                item = weaitem[i]
+                d = item[0]
+                dd = item[1]
+                nd = item[2]
+                ta = item[3].split('/')
+                dt = ta[0]
+                nt = ta[1]
+                txt = '\n\ndate:{0}\t\tday:{1}({2})\t\tnight:{3}({4})\n\n'.format(
+                    d,
+                    dd,
+                    dt,
+                    nd,
+                    nt
+                )
+                file.write(txt)
         return item
